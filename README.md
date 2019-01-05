@@ -1,0 +1,2 @@
+# cors
+Cors for streaming
